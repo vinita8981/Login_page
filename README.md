@@ -42,6 +42,7 @@ Login_page/
 ├── index.html                # Main HTML markup for login & register forms
 ├── style.css                 # CSS styles, transitions, and layout
 ├── script.js                 # JavaScript event listeners to toggle forms
+├── LICENSE                   # MIT License
 └── README.md                 # Project documentation
 ```
 
