@@ -4,6 +4,14 @@ A modern, responsive, and animated **Login and Registration Form** built with va
 
 ---
 
+## 📸 Preview
+
+| Login View | Registration View |
+| :---: | :---: |
+| ![Login View](assets/login-preview.png) | ![Registration View](assets/register-preview.png) |
+
+---
+
 ## ✨ Features
 
 - **Double Form Transition**: Seamless sliding animations toggling between the Login and Registration views.
@@ -28,10 +36,13 @@ A modern, responsive, and animated **Login and Registration Form** built with va
 
 ```
 Login_page/
-├── index.html       # Main HTML markup for login & register forms
-├── style.css        # CSS styles, transitions, and layout
-├── script.js        # JavaScript event listeners to toggle forms
-└── README.md        # Project documentation
+├── assets/
+│   ├── login-preview.png     # Login page screenshot
+│   └── register-preview.png  # Registration page screenshot
+├── index.html                # Main HTML markup for login & register forms
+├── style.css                 # CSS styles, transitions, and layout
+├── script.js                 # JavaScript event listeners to toggle forms
+└── README.md                 # Project documentation
 ```
 
 ---
